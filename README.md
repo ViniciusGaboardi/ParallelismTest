@@ -1,9 +1,5 @@
 # Computação Paralela para Ataques de Dicionário
 ### Repositório criado para a apresentação do seminário da matéria Organização de Computadores sobre Computação paralela
-
-![Screenshot_26](https://github.com/user-attachments/assets/83266702-2d2f-48b4-ab79-329fe53c256a)
-
-
 ## Sobre o que é nosso projeto?
 
 - O projeto é uma atividade avaliativa para otimizar um tipo de ataque de dicionário, sobre as tentativas de validação de senhas usados valores aleatórios com um tamanho de 5 caracteres de testes.
